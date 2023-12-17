@@ -1,2 +1,2 @@
 # Adaline-Neural-Network
-Here is the implementation of AND, OR and XOR using Adaline Neural Network with pure python
+This project demonstrates the implementation of the AND, OR, and XOR logic gates using an Adaptive Linear Neuron (Adaline) neural network. Adaline is a single-layer perceptron model that utilizes the gradient descent algorithm to learn from data.
